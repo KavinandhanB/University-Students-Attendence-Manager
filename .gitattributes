@@ -1,11 +1,1 @@
-*.dart linguist-language=Dart
-*.yaml linguist-language=YAML
-*.yml linguist-language=YAML
-*.lock linguist-language=Text
-*.json linguist-language=JSON
-*.pbxproj linguist-language=Objective-C
-*.podspec linguist-language=Ruby
-*.swift linguist-language=Swift
-*.gradle linguist-language=Groovy
-*.java linguist-language=Java
-*.kotlin linguist-language=Kotlin
+* linguist-language=Dart
